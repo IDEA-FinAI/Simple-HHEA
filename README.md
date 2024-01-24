@@ -81,3 +81,13 @@ bash run_exp.sh
 
 to directly run Simple-HHEA on dataset icews_wiki.
 
+# How to cite
+If you interested or inspired by this work, you can cite us by:
+```sh
+@article{jiang2023rethinking,
+  title={Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method},
+  author={Jiang, Xuhui and Xu, Chengjin and Shen, Yinghan and Su, Fenglong and Wang, Yuanzhuo and Sun, Fei and Li, Zixuan and Shen, Huawei},
+  journal={arXiv preprint arXiv:2304.03468},
+  year={2023}
+}
+```
