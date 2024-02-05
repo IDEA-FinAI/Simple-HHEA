@@ -84,10 +84,12 @@ to directly run Simple-HHEA on dataset icews_wiki.
 # How to cite
 If you interested or inspired by this work, you can cite us by:
 ```sh
-@article{jiang2023rethinking,
-  title={Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method},
-  author={Jiang, Xuhui and Xu, Chengjin and Shen, Yinghan and Su, Fenglong and Wang, Yuanzhuo and Sun, Fei and Li, Zixuan and Shen, Huawei},
-  journal={arXiv preprint arXiv:2304.03468},
-  year={2023}
+@misc{jiang2024practical,
+      title={Toward Practical Entity Alignment Method Design: Insights from New Highly Heterogeneous Knowledge Graph Datasets}, 
+      author={Xuhui Jiang and Chengjin Xu and Yinghan Shen and Yuanzhuo Wang and Fenglong Su and Fei Sun and Zixuan Li and Zhichao Shi and Jian Guo and Huawei Shen},
+      year={2024},
+      eprint={2304.03468},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
