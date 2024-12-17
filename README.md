@@ -40,7 +40,7 @@ python process_name_embedding.py --data DATASET
 We use [Fualign](https://github.com/showerage/fualign) to get the embeddings of entities by deepwalk. To get the structure embeddings, use: 
 
 ```bash
-cd fualign
+cd feature_perprocessing
 python preprocess.py --l DATASET
 python longterm/main.py \
 	--input "data/DATASET/deepwalk.data" \
