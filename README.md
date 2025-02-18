@@ -1,6 +1,6 @@
 # Simple-HHEA
 
-The code and dataset for paper [***Toward Practical Entity Alignment Method Design: Insights from New Highly Heterogeneous Knowledge Graph Datasets***](https://arxiv.org/pdf/2307.07697.pdf) in The Web Conf 2024.
+The code and dataset for paper [***Toward Practical Entity Alignment Method Design: Insights from New Highly Heterogeneous Knowledge Graph Datasets***](https://dl.acm.org/doi/pdf/10.1145/3589334.3645720) in The Web Conf 2024.
 
 
 
